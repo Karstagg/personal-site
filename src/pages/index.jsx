@@ -96,14 +96,14 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            <a href="m.r.f.48215@gmail.com">Shoot me an email</a> or find me on other platforms:{' '}
+            <a href="mailto:m.r.f.48215@gmail.com">Shoot me an email</a> or find me on other platforms:{' '}
             <a href="https://www.linkedin.com/in/matthew-r-fisher/">LinkedIn</a> &{' '}
           </ContactText>
         </Inner>
         <Footer>
           &copy; 2019 Matthew Fisher{' '}
           <a href="https://github.com/Karstagg/personal-site">Github Repository</a>. Made by{' '}
-          <a href="https://www.lekoarts.de">Matthew Fisher</a>.
+          <a href="www.matt-fisher.software">Matthew Fisher</a>.
         </Footer>
       </Contact>
     </Parallax>
