@@ -65,7 +65,7 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> I'm Matt Fisher.
         </BigTitle>
-        <Subtitle>This site will be home to my portfolio in the near future</Subtitle>
+        <Subtitle>This site will be home to my portfolio in the near future, for now, please check out my <a href="https://www.linkedin.com/in/matthew-r-fisher/">LinkedIn profile</a> </Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -97,7 +97,7 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             <a href="mailto:m.r.f.48215@gmail.com">Shoot me an email</a> or find me on other platforms:{' '}
-            <a href="https://www.linkedin.com/in/matthew-r-fisher/">LinkedIn</a> &{' '}
+            <a href="https://www.linkedin.com/in/matthew-r-fisher/">LinkedIn</a>{' '}
           </ContactText>
         </Inner>
         <Footer>
