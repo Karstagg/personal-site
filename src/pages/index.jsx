@@ -77,6 +77,20 @@ const Index = () => (
           >
             This is a demo todo app using Gatsby.js and google Firebase.
           </ProjectCard>
+          <ProjectCard
+            title="Github issue tracker demo app"
+            link="https://hopeful-borg-d95a5b.netlify.com/"
+            bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
+          >
+            This is a Github issue tracker app using Gatsby.js and Github's api.
+          </ProjectCard>
+          <ProjectCard
+            title="Demo app using react"
+            link="https://compassionate-poitras-281cbd.netlify.com/"
+            bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
+          >
+            This is a demo app built to display information from JSON in card format. It was built using react create app and styled components.
+          </ProjectCard>
         </ProjectsWrapper>
       </Projects>
       <About offset={3}>
@@ -101,7 +115,7 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 Matthew Fisher{' '}
+          &copy; 2019 Matthew Fisher
           <a href="https://github.com/Karstagg/personal-site">Github Repository</a>. Made by{' '}
           <a href="www.matt-fisher.software">Matthew Fisher</a>.
         </Footer>

@@ -19,12 +19,7 @@ const Wrapper = styled.svg`
 const icons = {
   triangle: {
     shape: (
-      <polygon
-        strokeWidth="1px"
-        strokeLinejoin="round"
-        strokeMiterlimit="10"
-        points="14.921,2.27 28.667,25.5 1.175,25.5 "
-      />
+      <path d="M15,30A15,15,0,1,1,30,15,15,15,0,0,1,15,30ZM15,6.23A8.77,8.77,0,1,0,23.77,15,8.77,8.77,0,0,0,15,6.23Z" />
     ),
     viewBox: '0 0 30 30',
   },
